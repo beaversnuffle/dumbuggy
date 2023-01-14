@@ -8,9 +8,10 @@ namespace dumbuggy
 {
     class Program
     {
+        int index = 7;
         static void Main(string[] args)
-        {
-            Console.WriteLine("dumbuggy is the best");
+        {      
+            Console.WriteLine("9");
         }
     }
 }
